@@ -9,8 +9,12 @@ public class FirstClass {
 <<<<<<< HEAD
 =======
 	        System.out.println("first commit from remote master branch");
+		System.out.println("Second commit from remote master branch");
+
+	        
 		
 >>>>>>> refs/remotes/origin/master
+
 
 	}
 
